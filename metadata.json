@@ -1,0 +1,8 @@
+{
+  "name": "Shakti Enterprise - Precast Concrete Wall Manufacturer",
+  "description": "Leading manufacturer of precast concrete compound walls (China Panchir) in Birbhum, West Bengal. Instant cost calculator, interlocking panel specs, and 24-hour boundary wall installation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
